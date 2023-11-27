@@ -1,0 +1,6 @@
+.card {
+    padding: 1rem;
+    border: 1px solid #ccc;
+}
+
+/* card is ok card-container is not instead use camelCasing */
